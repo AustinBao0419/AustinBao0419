@@ -41,6 +41,9 @@ Would love to callaborate with anyone who feels interested in developing a GTO(g
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBao0419"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBao0419"/>
+
+## 👊 Leetcode challenge! 👊
+Five problems a day keeps the doctor away 😂 <br>
+<img src="leetcode.jpg" alt="leetcode" width="300"/>

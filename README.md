@@ -48,4 +48,4 @@ Would love to callaborate with anyone who feels interested in developing a GTO(g
   
 ## 👊 Leetcode challenge! 👊
 Five problems a day keeps the doctor away 😂 <br>
-<img src="leetcode.png" alt="leetcode" width="300"/>
+<img src="Leetcode.jpg" alt="leetcode" width="300"/>

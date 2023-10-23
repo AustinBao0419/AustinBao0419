@@ -2,19 +2,19 @@
 <h3 align="center">✨ Welcome to my GitHub! ✨</h3>
 
 ## 🍀 Personal Info 🍀
-I'm a senior student studying CS+Math joint program and Finance at Washington University in St. Louis.
+I'm a first year master's student at University of Pennsylvania studying Computer and Information Science.
 
 ## 💼 Career Goal 💼
-I'm currently looking for a software development summer internship in 2023.
+I'm currently looking for a software development summer internship in 2024. Specifically, I feel most interested in full stack development because I have extensive experiences in such an end-to-end development process using various languages and frameworks, and I enjoy taking full ownership and responsibility of stuff that I create. With that said, I'm also open to solely front-end or back-end internship opportunities.
 
 ## 📖 Learning Goal 📖
-Game Design, Kotlin or Swift, Angular
+Game Design, Kotlin or Swift, AngularJS
 
 ## 👯 Collaboration 👯
 Would love to callaborate with anyone who feels interested in developing a GTO(game theory optimal) software, which simulates any given scenarios in poker games and determines the best actions to make.
 
 ## 📫 Contact Me 📫
-- email: austinbao@wustl.edu
+- email: austinbao0419@gmail.com
 - phone: 314-912-6618
 
 ## ⚡ Check out my personal projects in my repositories! ⚡
